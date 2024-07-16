@@ -47,6 +47,11 @@ section {
   padding: 45px 0;
 }
 
+.section-two {
+  background-color: #5f29a3;
+  color: whitesmoke;
+}
+
 .main-image {
   width: 100%;
 }
