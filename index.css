@@ -52,6 +52,16 @@ section {
   color: whitesmoke;
 }
 
+.section-two-container {
+  display: flex;
+  justify-content: space-around;
+}
+
 .main-image {
   width: 100%;
+}
+
+.img-two {
+  width: 300px;
+  border-radius: 4.6px;
 }
