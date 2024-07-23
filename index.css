@@ -46,10 +46,35 @@ a {
 
 a:hover,
 a:active {
-  color: #d4b44c;
+  color: #2b283a;
+  background: #f3e885;
 }
 
 /* layout */
+
+.btn-dark {
+  background: #5f29a3;
+  color: whitesmoke;
+}
+
+.btn-mid {
+  background: #f0e0ff;
+  color: #5f29a3;
+}
+
+.btn-light {
+  background: whitesmoke;
+  color: #5f29a3;
+}
+
+.btn-dark,
+.btn-light,
+.btn-mid {
+  text-decoration: none;
+  padding: 10px 19px;
+  border-radius: 4.6px;
+  font-weight: 500;
+}
 
 .container {
   width: 620px;
